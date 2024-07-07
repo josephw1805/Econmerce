@@ -1,0 +1,6 @@
+@Econ.Services.ProductAPI_HostAddress = http://localhost:5179
+
+GET {{Econ.Services.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

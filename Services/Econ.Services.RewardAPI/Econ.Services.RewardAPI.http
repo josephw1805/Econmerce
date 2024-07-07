@@ -1,0 +1,6 @@
+@Econ.Services.RewardAPI_HostAddress = http://localhost:5091
+
+GET {{Econ.Services.RewardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
